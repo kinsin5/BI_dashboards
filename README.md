@@ -1,5 +1,8 @@
 
 # DASHBOARDS
+###03.27.2025
+Graduation Project for Udemy course:
+[Bike Sales](https://app.powerbi.com/groups/me/reports/c0804f6e-6b7a-441a-87d2-8436da5349fa/b65310efc02d130d7a79?experience=power-bi)
 
 ### First Dashboard
 First dashboard is just a simple plain dashboard staring to getting familiar with Power Bi.
