@@ -1,6 +1,11 @@
 
 # DASHBOARDS
-### Currently working on Pixar Movies Dashboard Challenge By Maven Analytics [Link](https://mavenanalytics.io/challenges/maven-pixar-challenge/967013fc-1ff2-4453-a1ac-1ac1e0624c52)
+### Currently working on Brazilian E-commerce kaggle dataset: [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
+#### Data gathering is documented here: [Python + SQL in github repo](https://github.com/kinsin5/learning_projects/tree/main/Brazilian%20E-Commerce)
+#### Link to dashboard itself: [Power BI](https://app.powerbi.com/groups/me/reports/99d7230b-6a4e-4d1a-ac5b-95c9f645d2d3/35fbc547d47492a8618f?experience=power-bi)
+
+
+###  Pixar Movies Dashboard Challenge By Maven Analytics [Link](https://mavenanalytics.io/challenges/maven-pixar-challenge/967013fc-1ff2-4453-a1ac-1ac1e0624c52)
 #### [Pixar Movies](https://app.powerbi.com/groups/me/reports/8d1e97cf-a586-4c51-b747-18d834ea7e82/8c7a0aa50ccb15b60234?experience=power-bi)
 
 ### 03.27.2025 - Graduation Project for Udemy course:
