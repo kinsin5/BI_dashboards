@@ -1,7 +1,6 @@
 
 # DASHBOARDS
-### Dynamic TopN report
-### [Power BI Challenge pbi-2025-w34](https://workout-wednesday.com/pbi-2025-w34/)
+### Dynamic TopN report : [Link](https://workout-wednesday.com/pbi-2025-w34/)
 #### [Content Here](https://github.com/kinsin5/BI_dashboards/tree/main/pbi-2025-w34)
 
 ### [ON HOLD] Currently working on Brazilian E-commerce kaggle dataset: [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
