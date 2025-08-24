@@ -2,7 +2,7 @@
 # DASHBOARDS
 ### Dynamic TopN report
 ### [Power BI Challenge pbi-2025-w34](https://workout-wednesday.com/pbi-2025-w34/)
-####[Content Here]([https://github.com/kinsin5/BI_dashboards](https://github.com/kinsin5/BI_dashboards/tree/main/pbi-2025-w34))
+#### [Content Here](https://github.com/kinsin5/BI_dashboards/tree/main/pbi-2025-w34)
 
 ### [ON HOLD] Currently working on Brazilian E-commerce kaggle dataset: [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
 #### Data gathering is documented here: [Python + SQL in github repo](https://github.com/kinsin5/learning_projects/tree/main/Brazilian%20E-Commerce)
