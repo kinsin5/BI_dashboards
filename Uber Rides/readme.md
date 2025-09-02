@@ -5,3 +5,5 @@
 ### Data modeling from single .csv file
 
 <img width="1308" height="845" alt="image" src="https://github.com/user-attachments/assets/e8781a38-cef3-45a1-acaa-463219da01cb" />
+
+### Archive Gradient Line but cannot get it to work :(
