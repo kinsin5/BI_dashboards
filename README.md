@@ -3,6 +3,8 @@
 
 ### Uber Data 
 ---
+#### [Folder](https://github.com/kinsin5/BI_dashboards/tree/9d80f0264e40d440c2a9ac08d0f4ee029827a82a/Uber%20Rides)
+<img width="1657" height="909" alt="image" src="https://github.com/user-attachments/assets/4b89e1ab-af36-4165-9aff-d8e83d2a9b36" />
 ### CHALLENGES
 #### Dynamic TopN report : [Link](https://workout-wednesday.com/pbi-2025-w34/) - [Solution](https://github.com/kinsin5/BI_dashboards/tree/main/pbi-2025-w34)
 ---
