@@ -1,6 +1,6 @@
 ### UBER DATA 
 
-[Uber Rides/dashboard.gif](https://github.com/kinsin5/BI_dashboards/blob/e345e4c2eea72e27ee8a0716df877d251acb947e/Uber%20Rides/dashboard.gif)
+![Uber Rides/dashboard.gif](https://github.com/kinsin5/BI_dashboards/blob/e345e4c2eea72e27ee8a0716df877d251acb947e/Uber%20Rides/dashboard.gif)
 
 <img width="1490" height="854" alt="image" src="https://github.com/user-attachments/assets/3c3cf1dd-150e-4be5-a620-672618c41c11" />
 
